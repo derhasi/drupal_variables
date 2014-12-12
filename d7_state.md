@@ -1,5 +1,7 @@
 # Drupal 7 Variables used for storing state
 
+The list below holds variables, that are used for storing state in Drupal 7 and therefore should not be exported as configuration. The format with prefix `variable.` is used to provide easy copy-paste for the [Configuration Management (D7) module](https://drupal.org/project/configuration)'s _Exclude configuration_ setting (admin/config/system/configuration/settings).
+
 ## Core
 
 ```
